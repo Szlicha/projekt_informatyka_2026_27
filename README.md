@@ -1,2 +1,3 @@
-# projekt_informatyka_2026_27
-Projekt informatyka II Politechnika Gdańska 2026 3 sem.
+# [Tytuł projektu]
+Autor: [Imię Nazwisko]
+Laboratorium informatyki 2026/27
