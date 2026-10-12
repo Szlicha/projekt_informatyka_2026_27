@@ -1,3 +1,3 @@
-# [Tytuł projektu]
-Autor: [Imię Nazwisko]
+# [Projekt informatyka]
+Autor: [Filip Szliszka]
 Laboratorium informatyki 2026/27
